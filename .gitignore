@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local logs and temporary files
+hangul_filename_fixer_log_*.json
+tmp_*/
+*.tmp
+README_hangul_filename_fixer.md
+
+# Build artifacts
+build/
+dist/
+*.spec
