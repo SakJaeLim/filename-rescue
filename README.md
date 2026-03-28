@@ -1,5 +1,10 @@
 # 파일명구조대
 
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6)](https://github.com/SakJaeLim/filename-rescue)
+[![Python](https://img.shields.io/badge/python-3.14%2B-3776AB)](https://github.com/SakJaeLim/filename-rescue)
+[![License](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/SakJaeLim/filename-rescue?style=social)](https://github.com/SakJaeLim/filename-rescue)
+
 깨진 한글 파일명을 원래 읽히는 형태로 복구하는 Windows 유틸리티입니다.
 
 `코로나19로.pdf` 같은 자모 분리 파일명을 `코로나19로.pdf`처럼 정상 한글 이름으로 바꿔줍니다.
@@ -18,6 +23,11 @@
 - 드래그앤드롭 화면: [actual_drop_mode.png](output/actual_demo/actual_drop_mode.png)
 - 변경 후 화면: [actual_after.png](output/actual_demo/actual_after.png)
 - 데모 영상: [actual_demo.mp4](output/actual_demo/actual_demo.mp4)
+
+바로 보기:
+
+- 저장소: [SakJaeLim/filename-rescue](https://github.com/SakJaeLim/filename-rescue)
+- 릴리즈 작성용 문구: [RELEASE_FINAL_COPY.md](RELEASE_FINAL_COPY.md)
 
 ## 왜 만들었나
 

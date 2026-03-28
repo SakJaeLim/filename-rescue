@@ -40,6 +40,17 @@ Windows utility that fixes broken Korean filenames by normalizing decomposed Han
 
 깨진 한글 파일명을 스캔하고, 미리 보여주고, 안전하게 일괄 복구합니다.
 
+## 최종 권장 설정
+
+- About description:
+  `Windows utility that fixes broken Korean filenames by normalizing decomposed Hangul into readable names.`
+- Topics:
+  `windows`, `python`, `unicode`, `normalization`, `korean`, `hangul`, `filename`, `utility`, `productivity`
+- Release tag:
+  `v0.1.0`
+- Release title:
+  `v0.1.0 - 첫 공개 버전`
+
 ## 소셜/블로그용 한 줄 소개
 
 `코로나.pdf`처럼 깨진 한글 파일명을 `코로나.pdf`로 되돌리는 무료 Windows 유틸리티
@@ -49,4 +60,3 @@ Windows utility that fixes broken Korean filenames by normalizing decomposed Han
 - 깨진 한글 파일명 복구
 - 파일 여러 개 한 번에 정리
 - 맥/원드라이브/압축파일 대응
-
