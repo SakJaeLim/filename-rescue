@@ -4,6 +4,21 @@
 
 `코로나19로.pdf` 같은 자모 분리 파일명을 `코로나19로.pdf`처럼 정상 한글 이름으로 바꿔줍니다.
 
+## 실제 데모
+
+실제 앱 화면 기준 데모입니다.
+
+![실제 데모 대표 화면](output/actual_demo/actual_demo_hero.png)
+
+![실제 데모 GIF](output/actual_demo/actual_demo.gif)
+
+추가 이미지:
+
+- 스캔 화면: [actual_scan.png](output/actual_demo/actual_scan.png)
+- 드래그앤드롭 화면: [actual_drop_mode.png](output/actual_demo/actual_drop_mode.png)
+- 변경 후 화면: [actual_after.png](output/actual_demo/actual_after.png)
+- 데모 영상: [actual_demo.mp4](output/actual_demo/actual_demo.mp4)
+
 ## 왜 만들었나
 
 이 문제는 생각보다 자주 생깁니다.

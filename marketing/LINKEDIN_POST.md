@@ -1,8 +1,6 @@
-# 링크드인 게시글
+# 링크드인 최종 게시글
 
-## 버전 1
-
-파일을 받았는데 이름이 `코로나19로.pdf`처럼 자모가 분리되어 보인 적이 있었습니다.
+파일 이름이 `코로나19로.pdf`처럼 자모가 분리되어 보인 적이 있었습니다.
 
 처음에는 단순한 인코딩 문제처럼 보이지만, 실제로는 파일명이 분해형 유니코드(NFD)로 저장된 경우가 많습니다. 특히 맥, OneDrive, 메신저, 압축 파일을 거치면서 이런 문제가 자주 생깁니다.
 
@@ -14,30 +12,16 @@
 - 충돌은 건너뛰고
 - 파일 여러 개를 한 번에 정리할 수 있습니다
 
-아주 큰 제품은 아니지만, 한 번이라도 이 문제를 겪어본 사람에게는 시간을 꽤 아껴주는 도구라고 생각합니다.
+이번에는 실제 앱 기준 데모 이미지와 짧은 시연 영상도 같이 정리해두었습니다.
 
-관심 있으시면 저장소에서 바로 확인하실 수 있습니다.
+관심 있으시면 저장소에서 바로 보실 수 있습니다.
+
+GitHub:
+https://github.com/SakJaeLim/filename-rescue
 
 #Windows #Python #Productivity #Unicode #Hangul #Utility #OpenSource
 
-## 버전 2
+## 첨부 추천 순서
 
-작지만 꽤 자주 겪는 문제를 해결하는 도구를 하나 만들었습니다.
-
-맥이나 클라우드 동기화를 거친 파일이 Windows에서 `가상자산.pdf`처럼 깨져 보일 때가 있습니다. `파일명구조대`는 이런 파일명을 정상 한글 이름으로 복구합니다.
-
-핵심은 단순합니다.
-- 폴더를 고르거나 파일을 드래그한다
-- 바뀔 이름을 확인한다
-- 한 번에 정리한다
-
-앞으로는 Undo, 우클릭 메뉴, exe 배포까지 붙여볼 생각입니다.
-
-비슷한 문제를 겪어보셨다면 피드백 부탁드립니다.
-
-#Korean #WindowsTool #OpenSource #Automation #FileManagement
-
-## 추천 첨부 자산
-
-- 첫 번째 이미지: `output/marketing/linkedin_cover.png`
-- 두 번째 이미지: `output/marketing/demo.gif`
+1. `output/actual_demo/actual_demo_hero.png`
+2. `output/actual_demo/actual_demo.gif`
